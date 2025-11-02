@@ -7,3 +7,8 @@ Visit the live demo: [https://imagetoprompt.app/](https://imagetoprompt.app)
 
 ## MOMO TEST - Professional Psychological Testing Platform
 Visit the live demo: [https://momo-test.com/](https://momo-test.com)
+
+## PoE 3.27 Guide - Path of Exile 3.27 "Keepers of the Flame"
+Visit the live demo: [https://poe327.aithink.app/](https://poe327.aithink.app)
+
+
